@@ -1,0 +1,1 @@
+Olá esse projeto foi feito para entender o que é Git
